@@ -1,4 +1,4 @@
-# Binary Studio Academy's first homework
+# First homework for Binary Studio Academy
 
 ---
 
